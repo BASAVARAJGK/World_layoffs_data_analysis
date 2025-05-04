@@ -7,7 +7,7 @@ This project focuses on cleaning and analyzing a dataset of global layoffs using
 ---
 
 ## 🛠️ Tools Used
-- MySQL / PostgreSQL (standard SQL)
+- MySQL (standard SQL)
 - Window Functions (`ROW_NUMBER`)
 - CTEs and Subqueries
 
